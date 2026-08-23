@@ -1,0 +1,21 @@
+epoch 01/20  train_loss 3.8207  train_acc 0.1439  val_loss 3.3446  val_acc 0.2476
+epoch 02/20  train_loss 3.0786  train_acc 0.3112  val_loss 2.8160  val_acc 0.3800
+epoch 03/20  train_loss 2.6736  train_acc 0.4230  val_loss 2.5196  val_acc 0.4676
+epoch 04/20  train_loss 2.4049  train_acc 0.4934  val_loss 2.3694  val_acc 0.5108
+epoch 05/20  train_loss 2.2057  train_acc 0.5552  val_loss 2.2332  val_acc 0.5440
+epoch 06/20  train_loss 2.0436  train_acc 0.6053  val_loss 2.1366  val_acc 0.5734
+epoch 07/20  train_loss 1.8976  train_acc 0.6501  val_loss 2.0760  val_acc 0.5986
+epoch 08/20  train_loss 1.7697  train_acc 0.6946  val_loss 2.0104  val_acc 0.6200
+epoch 09/20  train_loss 1.6544  train_acc 0.7329  val_loss 1.9706  val_acc 0.6374
+epoch 10/20  train_loss 1.5513  train_acc 0.7712  val_loss 1.9278  val_acc 0.6372
+epoch 11/20  train_loss 1.4619  train_acc 0.8046  val_loss 1.9144  val_acc 0.6500
+epoch 12/20  train_loss 1.3872  train_acc 0.8332  val_loss 1.8918  val_acc 0.6650
+epoch 13/20  train_loss 1.3307  train_acc 0.8559  val_loss 1.8800  val_acc 0.6662
+epoch 14/20  train_loss 1.2910  train_acc 0.8726  val_loss 1.8764  val_acc 0.6652
+epoch 15/20  train_loss 1.2756  train_acc 0.8805  val_loss 1.8783  val_acc 0.6666
+epoch 16/20  train_loss 1.2418  train_acc 0.8917  val_loss 1.8439  val_acc 0.6828
+epoch 17/20  train_loss 1.2146  train_acc 0.9004  val_loss 1.8175  val_acc 0.6976
+epoch 18/20  train_loss 1.1897  train_acc 0.9086  val_loss 1.7912  val_acc 0.7124
+epoch 19/20  train_loss 1.1684  train_acc 0.9152  val_loss 1.7688  val_acc 0.7316
+epoch 20/20  train_loss 1.1509  train_acc 0.9210  val_loss 1.7503  val_acc 0.7500
+best val acc: 0.7500
