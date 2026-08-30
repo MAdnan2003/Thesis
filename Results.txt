@@ -1,0 +1,104 @@
+epoch 01/40  train_loss 3.7658  train_acc 0.1573  val_loss 3.2359  val_acc 0.2704
+epoch 02/40  train_loss 3.0386  train_acc 0.3234  val_loss 2.7733  val_acc 0.3848
+epoch 03/40  train_loss 2.6445  train_acc 0.4300  val_loss 2.4988  val_acc 0.4718
+epoch 04/40  train_loss 2.3902  train_acc 0.5036  val_loss 2.3268  val_acc 0.5160
+epoch 05/40  train_loss 2.2004  train_acc 0.5596  val_loss 2.2337  val_acc 0.5484
+epoch 06/40  train_loss 2.0502  train_acc 0.6056  val_loss 2.1508  val_acc 0.5748
+epoch 07/40  train_loss 1.9250  train_acc 0.6464  val_loss 2.0740  val_acc 0.6000
+epoch 08/40  train_loss 1.8149  train_acc 0.6801  val_loss 2.0404  val_acc 0.6052
+epoch 09/40  train_loss 1.7182  train_acc 0.7124  val_loss 2.0001  val_acc 0.6164
+epoch 10/40  train_loss 1.6263  train_acc 0.7448  val_loss 1.9931  val_acc 0.6296
+epoch 11/40  train_loss 1.5435  train_acc 0.7737  val_loss 1.9206  val_acc 0.6478
+epoch 12/40  train_loss 1.4695  train_acc 0.8003  val_loss 1.9314  val_acc 0.6552
+epoch 13/40  train_loss 1.3937  train_acc 0.8309  val_loss 1.9094  val_acc 0.6496
+  no improvement for 1/7 epoch(s)
+epoch 14/40  train_loss 1.3215  train_acc 0.8566  val_loss 1.9137  val_acc 0.6590
+epoch 15/40  train_loss 1.2603  train_acc 0.8822  val_loss 1.9229  val_acc 0.6590
+  no improvement for 1/7 epoch(s)
+epoch 16/40  train_loss 1.2138  train_acc 0.8990  val_loss 1.8941  val_acc 0.6684
+epoch 17/40  train_loss 1.1626  train_acc 0.9178  val_loss 1.9034  val_acc 0.6640
+  no improvement for 1/7 epoch(s)
+epoch 18/40  train_loss 1.1246  train_acc 0.9329  val_loss 1.8993  val_acc 0.6730
+epoch 19/40  train_loss 1.0826  train_acc 0.9495  val_loss 1.8945  val_acc 0.6734
+epoch 20/40  train_loss 1.0480  train_acc 0.9613  val_loss 1.8988  val_acc 0.6736
+epoch 21/40  train_loss 1.0246  train_acc 0.9683  val_loss 1.8877  val_acc 0.6802
+epoch 22/40  train_loss 1.0016  train_acc 0.9760  val_loss 1.8903  val_acc 0.6802
+  no improvement for 1/7 epoch(s)
+epoch 23/40  train_loss 0.9788  train_acc 0.9830  val_loss 1.8812  val_acc 0.6786
+  no improvement for 2/7 epoch(s)
+epoch 24/40  train_loss 0.9657  train_acc 0.9853  val_loss 1.8853  val_acc 0.6776
+  no improvement for 3/7 epoch(s)
+epoch 25/40  train_loss 0.9539  train_acc 0.9881  val_loss 1.8815  val_acc 0.6804
+epoch 26/40  train_loss 0.9451  train_acc 0.9903  val_loss 1.8733  val_acc 0.6808
+epoch 27/40  train_loss 0.9371  train_acc 0.9921  val_loss 1.8719  val_acc 0.6842
+epoch 28/40  train_loss 0.9316  train_acc 0.9932  val_loss 1.8767  val_acc 0.6842
+  no improvement for 1/7 epoch(s)
+epoch 29/40  train_loss 0.9285  train_acc 0.9941  val_loss 1.8703  val_acc 0.6856
+epoch 30/40  train_loss 0.9263  train_acc 0.9950  val_loss 1.8676  val_acc 0.6882
+epoch 31/40  train_loss 0.9231  train_acc 0.9958  val_loss 1.8654  val_acc 0.6894
+epoch 32/40  train_loss 0.9208  train_acc 0.9964  val_loss 1.8641  val_acc 0.6902
+epoch 33/40  train_loss 0.9189  train_acc 0.9969  val_loss 1.8650  val_acc 0.6898
+  no improvement for 1/7 epoch(s)
+epoch 34/40  train_loss 0.9174  train_acc 0.9973  val_loss 1.8622  val_acc 0.6914
+epoch 35/40  train_loss 0.9161  train_acc 0.9976  val_loss 1.8610  val_acc 0.6920
+epoch 36/40  train_loss 0.9150  train_acc 0.9979  val_loss 1.8615  val_acc 0.6918
+  no improvement for 1/7 epoch(s)
+epoch 37/40  train_loss 0.9141  train_acc 0.9982  val_loss 1.8598  val_acc 0.6938
+epoch 38/40  train_loss 0.9133  train_acc 0.9984  val_loss 1.8604  val_acc 0.6953
+  no improvement for 1/7 epoch(s)
+epoch 39/40  train_loss 0.9127  train_acc 0.9986  val_loss 1.8591  val_acc 0.6972
+epoch 40/40  train_loss 0.9122  train_acc 0.9988  val_loss 1.8587  val_acc 0.6991
+best val acc: 0.6991
+
+
+
+input shape:  (4, 3, 224, 224)
+output shape: (4, 3, 224, 224)
+shapes match: True
+dtype match:  True  (in=torch.float32, out=torch.float32)
+has NaN:      False
+has Inf:      False
+
+EigenTransform shape check: PASSED
+effective rank of that channel: 32  (eigen_rank=32)
+
+
+tensor shape at each stage: (1, 3, 224, 224)
+
+1) RAW pixels (before any transform):
+tensor([[1.000, 1.000, 0.996, 0.992, 0.988, 0.988],
+        [1.000, 1.000, 0.996, 0.992, 0.988, 0.988],
+        [1.000, 1.000, 0.992, 0.988, 0.984, 0.980],
+        [0.996, 0.996, 0.992, 0.984, 0.980, 0.976],
+        [0.996, 0.996, 0.988, 0.980, 0.976, 0.969],
+        [0.996, 0.996, 0.988, 0.980, 0.969, 0.961]], device='cuda:0')
+
+2) AFTER eigen transform (rank-32 SVD reconstruction):
+tensor([[0.999, 0.999, 0.996, 0.993, 0.990, 0.990],
+        [1.000, 1.000, 0.996, 0.992, 0.989, 0.988],
+        [1.000, 0.999, 0.994, 0.989, 0.985, 0.981],
+        [0.996, 0.996, 0.991, 0.984, 0.980, 0.975],
+        [0.996, 0.996, 0.989, 0.981, 0.975, 0.968],
+        [0.996, 0.996, 0.987, 0.980, 0.971, 0.962]], device='cuda:0')
+
+3) AFTER post_eigen_norm (actual CNN input):
+tensor([[1.241, 1.240, 1.231, 1.222, 1.215, 1.214],
+        [1.242, 1.242, 1.231, 1.221, 1.213, 1.209],
+        [1.241, 1.240, 1.226, 1.212, 1.200, 1.190],
+        [1.232, 1.233, 1.218, 1.198, 1.186, 1.173],
+        [1.231, 1.231, 1.213, 1.190, 1.173, 1.154],
+        [1.232, 1.231, 1.206, 1.187, 1.161, 1.137]], device='cuda:0')
+
+difference, raw vs eigen (same patch):
+tensor([[     0.001,      0.001,      0.000,     -0.000,     -0.002,     -0.001],
+        [     0.000,      0.000,      0.000,      0.000,     -0.001,      0.000],
+        [     0.000,      0.001,     -0.002,     -0.001,     -0.000,     -0.001],
+        [    -0.000,     -0.000,      0.001,      0.000,      0.001,      0.002],
+        [     0.000,      0.000,     -0.001,     -0.001,      0.002,      0.001],
+        [    -0.000,      0.000,      0.001,      0.001,     -0.002,     -0.001]], device='cuda:0')
+
+raw        -> min 0.0431  max 1.0000  mean 0.8653  std 0.2282
+
+eigen      -> min 0.0430  max 1.0012  mean 0.8653  std 0.2282
+
+cnn_input  -> min -1.3955  max 1.2459  mean 0.8714  std 0.6292
